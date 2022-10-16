@@ -1,0 +1,22 @@
+{
+  "name": "primera_tareajs",
+  "version": "1.0.0",
+  "description": "primer trabajo para presentar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NboothP/OpenBootCamp.git"
+  },
+  "keywords": [
+    "hola_mundo"
+  ],
+  "author": "Nicolas Booth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NboothP/OpenBootCamp/issues"
+  },
+  "homepage": "https://github.com/NboothP/OpenBootCamp#readme"
+}
